@@ -16,7 +16,9 @@ public class Picture
     private Triangle roof;
     private Circle sun;
     private boolean drawn;
-
+    private Person person1;
+    private Person person2;
+    private Person person3;
     /**
      * Constructor for objects of class Picture
      */
